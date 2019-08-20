@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "IJPCG": {
+      "commandName": "Project",
+      "commandLineArgs": "bullet.png",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}

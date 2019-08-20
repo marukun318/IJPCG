@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IJPCG", "IJPCG.csproj", "{BC5BF3A8-0680-4354-B386-E661DD74FF99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC5BF3A8-0680-4354-B386-E661DD74FF99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5BF3A8-0680-4354-B386-E661DD74FF99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5BF3A8-0680-4354-B386-E661DD74FF99}.Debug|x64.ActiveCfg = Debug|x64
+		{BC5BF3A8-0680-4354-B386-E661DD74FF99}.Debug|x64.Build.0 = Debug|x64
+		{BC5BF3A8-0680-4354-B386-E661DD74FF99}.Debug|x86.ActiveCfg = Debug|x86
+		{BC5BF3A8-0680-4354-B386-E661DD74FF99}.Debug|x86.Build.0 = Debug|x86
+		{BC5BF3A8-0680-4354-B386-E661DD74FF99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5BF3A8-0680-4354-B386-E661DD74FF99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC5BF3A8-0680-4354-B386-E661DD74FF99}.Release|x64.ActiveCfg = Release|x64
+		{BC5BF3A8-0680-4354-B386-E661DD74FF99}.Release|x64.Build.0 = Release|x64
+		{BC5BF3A8-0680-4354-B386-E661DD74FF99}.Release|x86.ActiveCfg = Release|x64
+		{BC5BF3A8-0680-4354-B386-E661DD74FF99}.Release|x86.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {116B57D3-48E1-4680-91E3-EFA7A7A2E2FF}
+	EndGlobalSection
+EndGlobal
