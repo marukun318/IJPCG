@@ -3,10 +3,10 @@
 # IPCG
 
 This program converts PNG images into PCG definitions in Ichigojam.  
-code by Marukun.
+code by Pirota.
 
 Specifically, please visit here.  
-Marukun: [https://twitter.com/marukun/](https://twitter.com/marukun/)
+Pirota: [https://twitter.com/pirota_pirozou/]([https://twitter.com/marukun/](https://twitter.com/pirota_pirozou/))
 
 To build this project, Please use Visual Studio 2019.  
 This is Console application. Run with .NET Core 3.0.  
